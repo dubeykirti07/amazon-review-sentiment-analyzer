@@ -65,6 +65,3 @@ Through this project, I gained hands-on experience in:
 * Real-time review analysis
 * Web application deployment using Flask or Streamlit
 
-## Author
-
-Developed as part of my learning journey in Machine Learning and Artificial Intelligence to explore practical applications of NLP and sentiment analysis.
